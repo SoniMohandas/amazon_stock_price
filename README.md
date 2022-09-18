@@ -1,1 +1,1 @@
-# amazon_stock_price_prediction
+# amazon_stock_price
